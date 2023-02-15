@@ -5,7 +5,4 @@ const codeloccol = {
     friends: ['Codeloccol Campers'],
    };
  
-function displayCampers(codeloccol){
     console.log(codeloccol.friends[0]);
-}
-displayCampers(codeloccol);
